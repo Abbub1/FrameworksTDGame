@@ -466,4 +466,275 @@ Exception rethrown at [0]:
 [2016.12.02-19.10.08:266][  6]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
 [2016.12.02-19.10.08:266][  6]LogGameState: Match State Changed from EnteringMap to WaitingToStart
 [2016.12.02-19.10.08:266][  6]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
-[2016.12.02-19.10.08:269][  6]LogGameState: Match State Changed 
+[2016.12.02-19.10.08:269][  6]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.10.08:269][  6]PIE: Info Play in editor start time for /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel -0.647
+[2016.12.02-19.10.21:741][608]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator5)
+[2016.12.02-19.10.22:013][636]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2016.12.02-19.10.23:287][783]Cmd: DELETE
+[2016.12.02-19.10.23:287][783]Cmd: ACTOR DELETE
+[2016.12.02-19.10.23:306][783]LogEditorActor: Deleted Actor: TextRenderActor
+[2016.12.02-19.10.23:316][783]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2016.12.02-19.10.24:290][900]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator5)
+[2016.12.02-19.10.26:541][ 96]LogSavePackage: Save=91.55ms
+[2016.12.02-19.10.26:541][ 96]LogSavePackage: Moving '../../../../../../Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Saved/Map_SampleLevel0452F7534ED51754A2E801B399B7B2AB.tmp' to '../../../../../../Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Content/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.umap'
+[2016.12.02-19.10.26:544][ 96]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Content/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.umap
+[2016.12.02-19.10.26:553][ 96]LogFileHelpers: Saving map 'Map_SampleLevel' took 0.210
+[2016.12.02-19.10.27:981][266]Cmd: SELECT NONE
+[2016.12.02-19.10.28:668][348]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator5)
+[2016.12.02-19.13.15:834][ 11]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator5)
+[2016.12.02-19.13.17:092][158]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator5)
+[2016.12.02-19.13.20:396][546]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator)
+[2016.12.02-19.13.21:205][639]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator5)
+[2016.12.02-19.13.21:546][676]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator3)
+[2016.12.02-19.14.00:226][902]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator5)
+[2016.12.02-19.14.01:144][  8]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator)
+[2016.12.02-19.14.14:199][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.02-19.14.14:199][570]PIE: New page: PIE session: Map_SampleLevel (Dec 2, 2016, 7:14:14 AM)
+[2016.12.02-19.14.14:199][570]LogPlayLevel: Creating play world package: /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel
+[2016.12.02-19.14.14:204][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004543s)
+[2016.12.02-19.14.14:205][570]LogAIModule: Creating AISystem for world Map_SampleLevel
+[2016.12.02-19.14.14:205][570]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2016.12.02-19.14.14:205][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel to /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel (0.005619s)
+[2016.12.02-19.14.14:221][570]LogInit: XAudio2 using 'HP ZR2440w-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.02-19.14.14:226][570]LogInit: FAudioDevice initialized.
+[2016.12.02-19.14.14:254][570]LogWorld: Game class is 'BP_GameMode_C'
+[2016.12.02-19.14.14:258][570]LogWorld: Bringing World /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel up for play (max tick rate 0) at 2016.12.02-13.14.14
+[2016.12.02-19.14.14:259][570]LogWorld: Bringing up level for play took: 0.003701
+[2016.12.02-19.14.14:260][570]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.14.14:260][570]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.14.14:260][570]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.14.14:262][570]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.14.14:262][570]PIE: Info Play in editor start time for /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel -0.665
+[2016.12.02-19.15.38:636][681]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.15.38:636][681]LogScriptCore:Warning: 
+[2016.12.02-19.15.38:636][681]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.15.38:636][681]LogScriptCore:Warning: 
+[2016.12.02-19.15.38:832][705]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.15.38:832][705]LogScriptCore:Warning: 
+[2016.12.02-19.15.39:633][801]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.15.39:633][801]LogScriptCore:Warning: 
+[2016.12.02-19.15.39:633][801]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.15.39:633][801]LogScriptCore:Warning: 
+[2016.12.02-19.15.40:633][921]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.15.40:633][921]LogScriptCore:Warning: 
+[2016.12.02-19.15.40:633][921]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.15.40:633][921]LogScriptCore:Warning: 
+[2016.12.02-19.17.18:315][627]Cmd: RestartLevel
+[2016.12.02-19.17.18:316][627]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.12.02-19.17.18:316][627]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.12.02-19.17.18:316][627]LogNet: Browse: /Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel?restart
+[2016.12.02-19.17.18:326][627]LogLoad: LoadMap: /Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel
+[2016.12.02-19.17.18:340][627]Cmd: MEM
+[2016.12.02-19.17.18:352][627]LogMemory: Platform Memory Stats for Windows
+[2016.12.02-19.17.18:352][627]LogMemory: Process Physical Memory: 1162.14 MB used, 1176.45 MB peak
+[2016.12.02-19.17.18:352][627]LogMemory: Process Virtual Memory: 1880.39 MB used, 2033.53 MB peak
+[2016.12.02-19.17.18:352][627]LogMemory: Physical Memory: 6128.84 MB used, 32692.40 MB total
+[2016.12.02-19.17.18:352][627]LogMemory: Virtual Memory: 3068.60 MB used, 8388608.00 MB total
+[2016.12.02-19.17.18:352][627]LogMemory: 
+[2016.12.02-19.17.18:352][627]Allocator Stats for TBB: (not implemented)
+[2016.12.02-19.17.18:353][627]LogPlayLevel: Creating play world package: /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel
+[2016.12.02-19.17.18:357][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003966s)
+[2016.12.02-19.17.18:357][627]LogAIModule: Creating AISystem for world Map_SampleLevel
+[2016.12.02-19.17.18:357][627]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2016.12.02-19.17.18:358][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel to /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel (0.004925s)
+[2016.12.02-19.17.18:358][627]LogWorld: Game class is 'BP_GameMode_C'
+[2016.12.02-19.17.18:362][627]LogWorld: Bringing World /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel up for play (max tick rate 0) at 2016.12.02-13.17.18
+[2016.12.02-19.17.18:362][627]LogWorld: Bringing up level for play took: 0.003830
+[2016.12.02-19.17.18:363][627]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.17.18:363][627]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.17.18:363][627]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.17.18:366][627]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.17.18:366][627]LogLoad: Took 0.039969 seconds to LoadMap(/Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel)
+[2016.12.02-19.20.36:240][365]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.20.36:240][365]LogScriptCore:Warning: 
+[2016.12.02-19.20.36:240][365]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.20.36:240][365]LogScriptCore:Warning: 
+[2016.12.02-19.20.37:041][461]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.20.37:041][461]LogScriptCore:Warning: 
+[2016.12.02-19.20.37:041][461]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.20.37:041][461]LogScriptCore:Warning: 
+[2016.12.02-19.20.37:241][485]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.20.37:241][485]LogScriptCore:Warning: 
+[2016.12.02-19.20.37:241][485]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.20.37:241][485]LogScriptCore:Warning: 
+[2016.12.02-19.20.38:241][605]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.20.38:241][605]LogScriptCore:Warning: 
+[2016.12.02-19.20.38:241][605]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.20.38:241][605]LogScriptCore:Warning: 
+[2016.12.02-19.23.52:676][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.12.02-19.23.53:562][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2016.12.02-19.23.54:748][130]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.12.02-19.23.55:373][198]Cmd: SELECT NONE
+[2016.12.02-19.23.56:732][360]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.12.02-19.23.58:628][578]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.12.02-19.23.59:572][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.02-19.23.59:572][687]PIE: New page: PIE session: Map_SampleLevel (Dec 2, 2016, 7:23:59 AM)
+[2016.12.02-19.23.59:572][687]LogPlayLevel: Creating play world package: /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel
+[2016.12.02-19.23.59:577][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004776s)
+[2016.12.02-19.23.59:578][687]LogAIModule: Creating AISystem for world Map_SampleLevel
+[2016.12.02-19.23.59:578][687]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2016.12.02-19.23.59:578][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel to /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel (0.005807s)
+[2016.12.02-19.23.59:594][687]LogInit: XAudio2 using 'HP ZR2440w-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.02-19.23.59:599][687]LogInit: FAudioDevice initialized.
+[2016.12.02-19.23.59:627][687]LogWorld: Game class is 'BP_GameMode_C'
+[2016.12.02-19.23.59:631][687]LogWorld: Bringing World /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel up for play (max tick rate 0) at 2016.12.02-13.23.59
+[2016.12.02-19.23.59:632][687]LogWorld: Bringing up level for play took: 0.003755
+[2016.12.02-19.23.59:633][687]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.23.59:633][687]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.23.59:633][687]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.23.59:635][687]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.23.59:635][687]PIE: Info Play in editor start time for /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel 0.678
+[2016.12.02-19.24.16:583][707]Cmd: SELECT NONE
+[2016.12.02-19.24.17:450][810]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.12.02-19.24.27:548][  0]Cmd: SELECT NONE
+[2016.12.02-19.24.28:143][ 71]Cmd: SELECT NONE
+[2016.12.02-19.24.57:151][500]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2016.12.02-19.25.00:173][860]Cmd: SELECT NONE
+[2016.12.02-19.25.16:053][756]LogEditorViewport: Clicking on Actor (LMB): BP_PowerCore_C (BP_PowerCore)
+[2016.12.02-19.26.00:150][830]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.12.02-19.27.33:448][535]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator3)
+[2016.12.02-19.27.51:859][687]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator)
+[2016.12.02-19.27.52:211][721]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator)
+[2016.12.02-19.28.07:369][450]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator3)
+[2016.12.02-19.28.07:692][481]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator3)
+[2016.12.02-19.28.09:834][724]LogEditorViewport: Clicking on Actor (context menu): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator3)
+[2016.12.02-19.28.11:711][929]LogEditorViewport: Clicking on Actor (context menu): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator3)
+[2016.12.02-19.28.18:720][630]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.12.02-19.39.05:214][781]Cmd: SELECT NONE
+[2016.12.02-19.39.07:330][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.02-19.39.07:330][ 26]PIE: New page: PIE session: Map_SampleLevel (Dec 2, 2016, 7:39:07 AM)
+[2016.12.02-19.39.07:331][ 26]LogPlayLevel: Creating play world package: /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel
+[2016.12.02-19.39.07:335][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004766s)
+[2016.12.02-19.39.07:336][ 26]LogAIModule: Creating AISystem for world Map_SampleLevel
+[2016.12.02-19.39.07:336][ 26]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2016.12.02-19.39.07:336][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel to /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel (0.005876s)
+[2016.12.02-19.39.07:353][ 26]LogInit: XAudio2 using 'HP ZR2440w-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.02-19.39.07:358][ 26]LogInit: FAudioDevice initialized.
+[2016.12.02-19.39.07:386][ 26]LogWorld: Game class is 'BP_GameMode_C'
+[2016.12.02-19.39.07:390][ 26]LogWorld: Bringing World /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel up for play (max tick rate 0) at 2016.12.02-13.39.07
+[2016.12.02-19.39.07:391][ 26]LogWorld: Bringing up level for play took: 0.003685
+[2016.12.02-19.39.07:392][ 26]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.39.07:392][ 26]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.39.07:392][ 26]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.39.07:394][ 26]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.39.07:394][ 26]PIE: Info Play in editor start time for /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel 0.391
+[2016.12.02-19.39.18:665][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.02-19.39.18:665][367]PIE: New page: PIE session: Map_SampleLevel (Dec 2, 2016, 7:39:18 AM)
+[2016.12.02-19.39.18:665][367]LogPlayLevel: Creating play world package: /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel
+[2016.12.02-19.39.18:669][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004088s)
+[2016.12.02-19.39.18:670][367]LogAIModule: Creating AISystem for world Map_SampleLevel
+[2016.12.02-19.39.18:670][367]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2016.12.02-19.39.18:670][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel to /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel (0.005032s)
+[2016.12.02-19.39.18:684][367]LogInit: XAudio2 using 'HP ZR2440w-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.02-19.39.18:688][367]LogInit: FAudioDevice initialized.
+[2016.12.02-19.39.18:715][367]LogWorld: Game class is 'BP_GameMode_C'
+[2016.12.02-19.39.18:719][367]LogWorld: Bringing World /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel up for play (max tick rate 0) at 2016.12.02-13.39.18
+[2016.12.02-19.39.18:719][367]LogWorld: Bringing up level for play took: 0.003615
+[2016.12.02-19.39.18:720][367]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.39.18:720][367]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.39.18:720][367]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.39.18:723][367]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.39.18:723][367]PIE: Info Play in editor start time for /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel -0.281
+[2016.12.02-19.41.36:151][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.02-19.41.36:151][842]PIE: New page: PIE session: Map_SampleLevel (Dec 2, 2016, 7:41:36 AM)
+[2016.12.02-19.41.36:152][842]LogPlayLevel: Creating play world package: /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel
+[2016.12.02-19.41.36:156][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004307s)
+[2016.12.02-19.41.36:157][842]LogAIModule: Creating AISystem for world Map_SampleLevel
+[2016.12.02-19.41.36:157][842]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2016.12.02-19.41.36:157][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel to /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel (0.005220s)
+[2016.12.02-19.41.36:173][842]LogInit: XAudio2 using 'HP ZR2440w-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.02-19.41.36:178][842]LogInit: FAudioDevice initialized.
+[2016.12.02-19.41.36:203][842]LogWorld: Game class is 'BP_GameMode_C'
+[2016.12.02-19.41.36:207][842]LogWorld: Bringing World /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel up for play (max tick rate 0) at 2016.12.02-13.41.36
+[2016.12.02-19.41.36:208][842]LogWorld: Bringing up level for play took: 0.003811
+[2016.12.02-19.41.36:209][842]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.41.36:209][842]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.41.36:209][842]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.41.36:211][842]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.41.36:211][842]PIE: Info Play in editor start time for /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel -0.798
+[2016.12.02-19.42.00:744][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.02-19.42.00:744][774]PIE: New page: PIE session: Map_SampleLevel (Dec 2, 2016, 7:42:00 AM)
+[2016.12.02-19.42.00:745][774]LogPlayLevel: Creating play world package: /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel
+[2016.12.02-19.42.00:749][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004334s)
+[2016.12.02-19.42.00:749][774]LogAIModule: Creating AISystem for world Map_SampleLevel
+[2016.12.02-19.42.00:750][774]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2016.12.02-19.42.00:750][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel to /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel (0.005200s)
+[2016.12.02-19.42.00:764][774]LogInit: XAudio2 using 'HP ZR2440w-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.02-19.42.00:768][774]LogInit: FAudioDevice initialized.
+[2016.12.02-19.42.00:792][774]LogWorld: Game class is 'BP_GameMode_C'
+[2016.12.02-19.42.00:797][774]LogWorld: Bringing World /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel up for play (max tick rate 0) at 2016.12.02-13.42.00
+[2016.12.02-19.42.00:797][774]LogWorld: Bringing up level for play took: 0.003929
+[2016.12.02-19.42.00:798][774]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.42.00:798][774]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-19.42.00:798][774]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.42.00:801][774]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-19.42.00:801][774]PIE: Info Play in editor start time for /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel -0.211
+[2016.12.02-19.44.30:539][729]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.30:539][729]LogScriptCore:Warning: 
+[2016.12.02-19.44.30:539][729]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.30:539][729]LogScriptCore:Warning: 
+[2016.12.02-19.44.30:539][729]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.30:539][729]LogScriptCore:Warning: 
+[2016.12.02-19.44.30:539][729]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.30:539][729]LogScriptCore:Warning: 
+[2016.12.02-19.44.30:547][730]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.30:547][730]LogScriptCore:Warning: 
+[2016.12.02-19.44.30:547][730]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.30:547][730]LogScriptCore:Warning: 
+[2016.12.02-19.44.31:039][789]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.31:039][789]LogScriptCore:Warning: 
+[2016.12.02-19.44.31:039][789]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.31:039][789]LogScriptCore:Warning: 
+[2016.12.02-19.44.31:039][789]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.31:039][789]LogScriptCore:Warning: 
+[2016.12.02-19.44.31:039][789]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.31:039][789]LogScriptCore:Warning: 
+[2016.12.02-19.44.31:039][789]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.31:039][789]LogScriptCore:Warning: 
+[2016.12.02-19.44.31:039][789]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.31:039][789]LogScriptCore:Warning: 
+[2016.12.02-19.44.31:338][825]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.31:338][825]LogScriptCore:Warning: 
+[2016.12.02-19.44.31:538][849]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.31:539][849]LogScriptCore:Warning: 
+[2016.12.02-19.44.31:539][849]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.31:539][849]LogScriptCore:Warning: 
+[2016.12.02-19.44.31:539][849]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.31:539][849]LogScriptCore:Warning: 
+[2016.12.02-19.44.31:539][849]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.31:539][849]LogScriptCore:Warning: 
+[2016.12.02-19.44.32:039][909]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.32:039][909]LogScriptCore:Warning: 
+[2016.12.02-19.44.32:039][909]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.32:039][909]LogScriptCore:Warning: 
+[2016.12.02-19.44.32:039][909]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.32:039][909]LogScriptCore:Warning: 
+[2016.12.02-19.44.32:039][909]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.32:039][909]LogScriptCore:Warning: 
+[2016.12.02-19.44.32:039][909]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.32:039][909]LogScriptCore:Warning: 
+[2016.12.02-19.44.32:039][909]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.32:039][909]LogScriptCore:Warning: 
+[2016.12.02-19.44.32:538][969]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.32:538][969]LogScriptCore:Warning: 
+[2016.12.02-19.44.32:538][969]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.32:538][969]LogScriptCore:Warning: 
+[2016.12.02-19.44.32:539][969]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.32:539][969]LogScriptCore:Warning: 
+[2016.12.02-19.44.32:539][969]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.32:539][969]LogScriptCore:Warning: 
+[2016.12.02-19.44.33:038][ 29]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.33:038][ 29]LogScriptCore:Warning: 
+[2016.12.02-19.44.33:038][ 29]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.33:038][ 29]LogScriptCore:Warning: 
+[2016.12.02-19.44.33:038][ 29]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-19.44.33:038][ 29]LogScriptCore:Warning: 
+[2016.12.02-19.44.33:039][ 29]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-19.44.33:039][ 29]LogScriptCore:Warning: 
+[2016.12.02-19.45.22:687][898]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall3)
+[2016.12.02-19.46.05:324][  0]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator6)
+[2016.12.02-19.46.05:680][ 40]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator6)
+[2016.12.02-19.46.31:638][129]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator2)
+[2016.12.02-19.47.53:425][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2016.12.02-19.47.54:263][868]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator3)
+[2016.12.02-19.48.03:287][873]LogScriptCore:Warning: Script
