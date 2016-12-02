@@ -737,4 +737,464 @@ Exception rethrown at [0]:
 [2016.12.02-19.46.31:638][129]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator2)
 [2016.12.02-19.47.53:425][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
 [2016.12.02-19.47.54:263][868]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator3)
-[2016.12.02-19.48.03:287][873]LogScriptCore:Warning: Script
+[2016.12.02-19.48.03:287][873]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2016.12.02-19.48.03:287][873]LogScriptCore:Warning: 
+[2016.12.02-19.48.03:287][873]LogScript:Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	BP_PlanarGridGenerator_C /Engine/Transient.World_9:PersistentLevel.BP_PlanarGridGenerator_C_0
+	Function /Game/FPSTowerDefenseToolkit/Blueprints/GameplayActors/BP_PlanarGridGenerator.BP_PlanarGridGenerator_C:UserConstructionScript:00C0
+[2016.12.02-19.48.24:367][514]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.12.02-19.48.24:853][514]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 112 classes and 0 folders.
+[2016.12.02-19.51.40:226][383]LogRenderer: Reallocating scene render targets to support 2040x1420 (Frame:385770).
+[2016.12.02-19.53.19:212][456]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.12.02-19.53.29:489][563]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator6)
+[2016.12.02-19.53.30:124][636]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator6)
+[2016.12.02-19.53.30:590][690]LogEditorViewport: Clicking on Actor (LMB): BP_PlanarGridGenerator_C (BP_PlanarGridGenerator6)
+[2016.12.02-19.53.42:033][974]LogTextFormatter:Warning: Failed to parse argument "RootClass" as a number (using "0" as a fallback). Please check your format string for errors: "Select {RootClass} Class".
+[2016.12.02-19.53.42:033][974]LogTextFormatter:Warning: Failed to parse argument "GameStateName" as a number (using "0" as a fallback). Please check your format string for errors: "GameState: Edit {GameStateName}".
+[2016.12.02-19.53.42:033][974]LogTextFormatter:Warning: Failed to parse argument "PawnName" as a number (using "0" as a fallback). Please check your format string for errors: "Pawn: Edit {PawnName}".
+[2016.12.02-19.53.42:033][974]LogTextFormatter:Warning: Failed to parse argument "HUDName" as a number (using "0" as a fallback). Please check your format string for errors: "HUD: Edit {HUDName}".
+[2016.12.02-19.53.42:033][974]LogTextFormatter:Warning: Failed to parse argument "PlayerControllerName" as a number (using "0" as a fallback). Please check your format string for errors: "PlayerController: Edit {PlayerControllerName}".
+[2016.12.02-19.54.52:832][298]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.12.02-19.59.40:887][807]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.12.02-20.01.56:739][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel' with GeneratedClass '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel_C' with ClassGeneratedBy '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel'
+[2016.12.02-20.01.56:739][ 91]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.02-20.01.56:739][ 91]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2016.12.02-20.01.57:366][ 91]LogPlayLevel: PlayLevel: Blueprint regeneration took 626 ms (1 blueprints)
+[2016.12.02-20.01.57:366][ 91]PIE: New page: PIE session: Map_SampleLevel (Dec 2, 2016, 8:01:57 AM)
+[2016.12.02-20.01.57:366][ 91]LogPlayLevel: Creating play world package: /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel
+[2016.12.02-20.01.57:371][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004299s)
+[2016.12.02-20.01.57:371][ 91]LogAIModule: Creating AISystem for world Map_SampleLevel
+[2016.12.02-20.01.57:372][ 91]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2016.12.02-20.01.57:372][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel to /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel (0.005246s)
+[2016.12.02-20.01.57:392][ 91]LogInit: XAudio2 using 'HP ZR2440w-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.02-20.01.57:397][ 91]LogInit: FAudioDevice initialized.
+[2016.12.02-20.01.57:427][ 91]LogWorld: Game class is 'BP_GameMode_C'
+[2016.12.02-20.01.57:431][ 91]LogWorld: Bringing World /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel up for play (max tick rate 0) at 2016.12.02-14.01.57
+[2016.12.02-20.01.57:432][ 91]LogWorld: Bringing up level for play took: 0.003642
+[2016.12.02-20.01.57:433][ 91]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-20.01.57:433][ 91]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-20.01.57:433][ 91]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-20.01.57:436][ 91]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-20.01.57:436][ 91]PIE: Info Play in editor start time for /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel 0.429
+[2016.12.02-20.01.57:437][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel' with GeneratedClass '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel_C' with ClassGeneratedBy '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel'
+[2016.12.02-20.02.37:320][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel' with GeneratedClass '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel_C' with ClassGeneratedBy '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel'
+[2016.12.02-20.02.37:360][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel' with GeneratedClass '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel_C' with ClassGeneratedBy '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel'
+[2016.12.02-20.03.43:952][295]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel' with GeneratedClass '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel_C' with ClassGeneratedBy '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel'
+[2016.12.02-20.03.43:952][295]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.02-20.03.43:953][295]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2016.12.02-20.03.44:429][295]LogPlayLevel: PlayLevel: Blueprint regeneration took 476 ms (1 blueprints)
+[2016.12.02-20.03.44:429][295]PIE: New page: PIE session: Map_SampleLevel (Dec 2, 2016, 8:03:44 AM)
+[2016.12.02-20.03.44:430][295]LogPlayLevel: Creating play world package: /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel
+[2016.12.02-20.03.44:434][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004249s)
+[2016.12.02-20.03.44:434][295]LogAIModule: Creating AISystem for world Map_SampleLevel
+[2016.12.02-20.03.44:435][295]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2016.12.02-20.03.44:435][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel to /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel (0.005239s)
+[2016.12.02-20.03.44:455][295]LogInit: XAudio2 using 'HP ZR2440w-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.02-20.03.44:460][295]LogInit: FAudioDevice initialized.
+[2016.12.02-20.03.44:490][295]LogWorld: Game class is 'BP_GameMode_C'
+[2016.12.02-20.03.44:494][295]LogWorld: Bringing World /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel up for play (max tick rate 0) at 2016.12.02-14.03.44
+[2016.12.02-20.03.44:494][295]LogWorld: Bringing up level for play took: 0.003641
+[2016.12.02-20.03.44:495][295]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-20.03.44:495][295]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-20.03.44:495][295]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-20.03.44:498][295]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-20.03.44:498][295]PIE: Info Play in editor start time for /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel 1.496
+[2016.12.02-20.03.44:498][295]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel' with GeneratedClass '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel_C' with ClassGeneratedBy '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel'
+[2016.12.02-20.05.18:453][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel' with GeneratedClass '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel_C' with ClassGeneratedBy '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel'
+[2016.12.02-20.05.18:488][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel' with GeneratedClass '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel_C' with ClassGeneratedBy '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel'
+[2016.12.02-20.05.34:171][334]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel' with GeneratedClass '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel_C' with ClassGeneratedBy '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel'
+[2016.12.02-20.05.34:171][334]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.02-20.05.34:171][334]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2016.12.02-20.05.34:644][334]LogPlayLevel: PlayLevel: Blueprint regeneration took 473 ms (1 blueprints)
+[2016.12.02-20.05.34:644][334]PIE: New page: PIE session: Map_SampleLevel (Dec 2, 2016, 8:05:34 AM)
+[2016.12.02-20.05.34:645][334]LogPlayLevel: Creating play world package: /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel
+[2016.12.02-20.05.34:649][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004122s)
+[2016.12.02-20.05.34:649][334]LogAIModule: Creating AISystem for world Map_SampleLevel
+[2016.12.02-20.05.34:650][334]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2016.12.02-20.05.34:650][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel to /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel (0.005021s)
+[2016.12.02-20.05.34:670][334]LogInit: XAudio2 using 'HP ZR2440w-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.02-20.05.34:674][334]LogInit: FAudioDevice initialized.
+[2016.12.02-20.05.34:700][334]LogWorld: Game class is 'BP_GameMode_C'
+[2016.12.02-20.05.34:704][334]LogWorld: Bringing World /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel.Map_SampleLevel up for play (max tick rate 0) at 2016.12.02-14.05.34
+[2016.12.02-20.05.34:705][334]LogWorld: Bringing up level for play took: 0.003747
+[2016.12.02-20.05.34:706][334]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-20.05.34:706][334]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.02-20.05.34:706][334]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-20.05.34:708][334]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.02-20.05.34:708][334]PIE: Info Play in editor start time for /Game/FPSTowerDefenseToolkit/Maps/UEDPIE_0_Map_SampleLevel -0.289
+[2016.12.02-20.05.34:708][334]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel' with GeneratedClass '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel_C' with ClassGeneratedBy '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel'
+[2016.12.02-20.08.37:195][811]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.37:195][811]LogScriptCore:Warning: 
+[2016.12.02-20.08.37:195][811]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.37:195][811]LogScriptCore:Warning: 
+[2016.12.02-20.08.37:495][847]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.37:495][847]LogScriptCore:Warning: 
+[2016.12.02-20.08.37:495][847]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.37:495][847]LogScriptCore:Warning: 
+[2016.12.02-20.08.37:495][847]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.37:495][847]LogScriptCore:Warning: 
+[2016.12.02-20.08.37:495][847]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.37:495][847]LogScriptCore:Warning: 
+[2016.12.02-20.08.37:987][906]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.37:987][906]LogScriptCore:Warning: 
+[2016.12.02-20.08.37:987][906]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.37:987][906]LogScriptCore:Warning: 
+[2016.12.02-20.08.37:995][907]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.37:995][907]LogScriptCore:Warning: 
+[2016.12.02-20.08.37:995][907]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.37:995][907]LogScriptCore:Warning: 
+[2016.12.02-20.08.37:995][907]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.37:995][907]LogScriptCore:Warning: 
+[2016.12.02-20.08.37:995][907]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.37:995][907]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:095][919]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:095][919]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:095][919]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:095][919]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:296][943]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:296][943]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:296][943]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:296][943]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:487][966]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:487][966]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:487][966]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.38:487][966]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:496][967]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:496][967]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:496][967]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.38:496][967]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:496][967]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:496][967]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:496][967]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:496][967]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:695][991]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:695][991]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:695][991]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:695][991]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:895][ 15]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:895][ 15]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:896][ 15]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:896][ 15]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:987][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:987][ 26]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:987][ 26]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.38:987][ 26]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:987][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:987][ 26]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:987][ 26]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.38:987][ 26]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:995][ 27]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.38:995][ 27]LogScriptCore:Warning: 
+[2016.12.02-20.08.38:995][ 27]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.38:996][ 27]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:095][ 39]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:095][ 39]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:096][ 39]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:096][ 39]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:295][ 63]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:295][ 63]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:295][ 63]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:295][ 63]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:487][ 86]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:487][ 86]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:487][ 86]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.39:487][ 86]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:495][ 87]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:495][ 87]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:495][ 87]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.39:495][ 87]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:496][ 87]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:496][ 87]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:496][ 87]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:496][ 87]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:695][111]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:695][111]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:695][111]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:695][111]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:895][135]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:895][135]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:896][135]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:896][135]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:987][146]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:987][146]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:987][146]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.39:987][146]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:987][146]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:987][146]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:987][146]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.39:987][146]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:995][147]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.39:995][147]LogScriptCore:Warning: 
+[2016.12.02-20.08.39:995][147]LogScriptCore:Warning: Script Msg: Attempted to set an invalid index on array ThreatWeightageArray [1/0]!
+[2016.12.02-20.08.39:995][147]LogScriptCore:Warning: 
+[2016.12.02-20.08.40:095][159]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.40:095][159]LogScriptCore:Warning: 
+[2016.12.02-20.08.40:095][159]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array ThreatWeightageArray of length 1!
+[2016.12.02-20.08.40:095][159]LogScriptCore:Warning: 
+[2016.12.02-20.08.46:688][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel' with GeneratedClass '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel_C' with ClassGeneratedBy '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel'
+[2016.12.02-20.08.46:724][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel' with GeneratedClass '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel_C' with ClassGeneratedBy '/Game/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.Map_SampleLevel:PersistentLevel.Map_SampleLevel'
+[2016.12.02-20.08.49:877][314]Cmd: SELECT NONE
+[2016.12.02-20.18.43:215][811]LogSavePackage: Save=184.50ms
+[2016.12.02-20.18.43:215][811]LogSavePackage: Moving '../../../../../../Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Saved/BP_PlayerCharacterF0A58481424A138D55120B807C46A124.tmp' to '../../../../../../Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Content/FPSTowerDefenseToolkit/Blueprints/BP_PlayerCharacter.uasset'
+[2016.12.02-20.18.43:217][811]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Content/FPSTowerDefenseToolkit/Blueprints/BP_PlayerCharacter.uasset
+[2016.12.02-20.18.43:459][811]LogSavePackage: Save=157.79ms
+[2016.12.02-20.18.43:459][811]LogSavePackage: Moving '../../../../../../Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Saved/Map_SampleLevelB3F7536F47E3123385CE09B224ED9E19.tmp' to '../../../../../../Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Content/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.umap'
+[2016.12.02-20.18.43:462][811]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Content/FPSTowerDefenseToolkit/Maps/Map_SampleLevel.umap
+[2016.12.02-20.18.43:469][811]LogFileHelpers: Saving map 'Map_SampleLevel' took 0.250
+[2016.12.02-20.18.43:713][812]Cmd: QUIT_EDITOR
+[2016.12.02-20.18.43:794][812]LogExit: Preparing to exit.
+[2016.12.02-20.18.44:617][812]LogExit: Editor shut down
+[2016.12.02-20.18.44:617][812]LogExit: Transaction tracking system shut down
+[2016.12.02-20.18.44:780][812]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.02-20.18.44:780][812]LogExit: Object subsystem successfully closed.
+[2016.12.02-20.18.44:790][812]LogD3D11RHI: Shutdown
+[2016.12.02-20.18.44:790][812]LogD3D11RHI: CleanupD3DDevice
+[2016.12.02-20.18.44:852][812]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.02-20.18.44:907][812]LogModuleManager: Shutting down and abandoning module BlueprintGraph (238)
+[2016.12.02-20.18.44:907][812]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (237)
+[2016.12.02-20.18.44:915][812]LogModuleManager: Shutting down and abandoning module PortalProxies (236)
+[2016.12.02-20.18.44:915][812]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (235)
+[2016.12.02-20.18.44:915][812]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (234)
+[2016.12.02-20.18.44:915][812]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.12.02-20.18.44:915][812]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.12.02-20.18.44:915][812]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.12.02-20.18.44:915][812]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.12.02-20.18.44:915][812]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.12.02-20.18.44:915][812]LogDirectoryWatcher: A directory notification for 'C:/Unreal Engine/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.12.02-20.18.44:916][812]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.12.02-20.18.44:916][812]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.12.02-20.18.44:916][812]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.12.02-20.18.44:917][812]LogDirectoryWatcher: A directory notification for 'C:/Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Content/Collections/' was aborted.
+[2016.12.02-20.18.44:917][812]LogDirectoryWatcher: A directory notification for 'C:/Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Content/Developers/hey/Collections/' was aborted.
+[2016.12.02-20.18.44:917][812]LogDirectoryWatcher: A directory notification for 'C:/Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Saved/Collections/' was aborted.
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.12.02-20.18.44:917][812]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.12.02-20.18.44:918][812]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.12.02-20.18.45:222][812]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.12.02-20.18.45:223][812]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.12.02-20.18.45:223][812]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.12.02-20.18.45:223][812]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.12.02-20.18.45:223][812]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.12.02-20.18.45:223][812]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.12.02-20.18.45:223][812]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.12.02-20.18.45:223][812]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.12.02-20.18.45:273][812]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.12.02-20.18.45:273][812]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.12.02-20.18.45:273][812]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.12.02-20.18.45:273][812]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.12.02-20.18.45:273][812]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.12.02-20.18.45:273][812]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.12.02-20.18.45:273][812]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.12.02-20.18.45:273][812]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.12.02-20.18.45:273][812]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.12.02-20.18.45:284][812]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.12.02-20.18.45:284][812]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.12.02-20.18.45:284][812]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.12.02-20.18.45:284][812]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.12.02-20.18.45:284][812]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.12.02-20.18.45:284][812]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.12.02-20.18.45:284][812]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.12.02-20.18.45:284][812]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.12.02-20.18.45:285][812]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.12.02-20.18.45:285][812]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.12.02-20.18.45:285][812]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.12.02-20.18.45:285][812]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.12.02-20.18.45:285][812]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.12.02-20.18.45:285][812]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.12.02-20.18.45:285][812]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.12.02-20.18.45:285][812]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.12.02-20.18.45:285][812]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.12.02-20.18.45:285][812]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.12.02-20.18.45:400][812]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.12.02-20.18.45:401][812]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.12.02-20.18.45:401][812]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.12.02-20.18.45:402][812]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.12.02-20.18.45:403][812]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.12.02-20.18.45:403][812]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.12.02-20.18.45:503][812]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.12.02-20.18.45:603][812]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.12.02-20.18.45:604][812]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.12.02-20.18.45:604][812]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.12.02-20.18.45:605][812]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.12.02-20.18.45:605][812]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.12.02-20.18.45:605][812]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.12.02-20.18.45:605][812]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.12.02-20.18.45:605][812]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.12.02-20.18.45:605][812]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.12.02-20.18.45:605][812]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.12.02-20.18.45:606][812]LogDirectoryWatcher: A directory notification for '../../../../../../Users/hey/source/FrameworksTDGame/FPSTowerDefenseToolkit/Content/' was aborted.
+[2016.12.02-20.18.45:606][812]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.12.02-20.18.45:606][812]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.12.02-20.18.45:747][812]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.12.02-20.18.45:747][812]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.12.02-20.18.45:747][812]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.12.02-20.18.45:747][812]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.12.02-20.18.45:844][812]LogDerivedDataCache: Shutdown
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.12.02-20.18.45:844][812]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.12.02-20.18.45:845][812]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.12.02-20.18.45:845][812]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.12.02-20.18.45:845][812]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.12.02-20.18.45:845][812]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.12.02-20.18.45:845][812]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.12.02-20.18.45:845][812]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.12.02-20.18.45:845][812]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.12.02-20.18.45:845][812]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.12.02-20.18.45:845][812]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.12.02-20.18.45:845][812]LogOnline:Display: Unloading online subsystem: NULL
+[2016.12.02-20.18.45:845][812]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.12.02-20.18.45:845][812]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.12.02-20.18.45:845][812]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B21518E83-4A17-C560-F8D5-4393D8E77105%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=42b5540641c25569e1570097d9cc4e18%7C93f3814ee5044b34bfa80a8adfeedfb2%7Cc1c2ca02-3a86-47dd-80f7-e56117fb6e1f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.12.02-20.18.45:871][812]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.12.02-20.18.45:871][812]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.02-20.18.45:872][812]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.02-20.18.45:872][812]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.02-20.18.45:872][812]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.02-20.18.45:876][812]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.02-20.18.45:876][812]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.02-20.18.45:876][812]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.02-20.18.45:876][812]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.02-20.18.45:876][812]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.02-20.18.45:876][812]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.02-20.18.45:876][812]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.02-20.18.45:876][812]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.02-20.18.45:876][812]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.02-20.18.45:876][812]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.02-20.18.45:877][812]LogExit: Exiting.
+[2016.12.02-20.18.45:884][812]Log file closed, 12/02/16 14:18:45
